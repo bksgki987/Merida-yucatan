@@ -1,0 +1,26 @@
+.card-img-top{
+    width: 100;
+    height: 350px;
+
+}
+
+.cartas{
+    height: 860px;
+}
+
+
+.btn-primary{
+    color: black;
+    border-radius: 50px;
+    width: 200px;
+    height: 45px;
+    
+}
+
+.boton{
+    text-align: center;
+    padding-bottom:45px ;
+}
+button{
+    width: 200;
+}
