@@ -1,0 +1,43 @@
+.header-titulo{
+    font-family: 'Montserrat';
+    font-weight: 800;
+    font-size: 72px;
+    font-weight: bo;
+    text-align: left;
+}
+
+.header-subtitulo{
+    font-family: 'Montserrat';
+    font-size: 24px;
+    font-weight: 400;
+    text-align: left;
+}
+
+.header-btn{
+    display: flex;
+          justify-content: left;
+          font-family: 'Montserrat';
+    font-weight: 500;
+        }
+
+.quienes-titulo{
+    padding-top: 75px;
+    padding-bottom: 0px;
+    font-family: 'Montserrat';
+    font-weight: 800;
+    text-align: center;
+}
+
+.quienes-cont{
+    padding-top:25px;
+    font-family: 'Montserrat';
+    font-weight: 400;
+    line-height: 30px;
+    text-align: center;
+}
+
+
+.footer-text{
+    font-family: 'Montserrat';
+
+}
